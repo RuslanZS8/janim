@@ -202,7 +202,7 @@ body::before {
 }
 
 .title-image-left {
-    width: 110px;
+    width: 125px;
     height: 110px;
     object-fit: cover;
 }
